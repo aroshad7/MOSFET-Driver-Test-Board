@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=12V Pin=P11-1
+Removed Pin From Net: NetName=12V Pin=P11-2
+Removed Pin From Net: NetName=12V Pin=P11-3
+Removed Pin From Net: NetName=12V Pin=P11-4
+Removed Member From Class: ClassName=Driver Board Simplified Member=P11

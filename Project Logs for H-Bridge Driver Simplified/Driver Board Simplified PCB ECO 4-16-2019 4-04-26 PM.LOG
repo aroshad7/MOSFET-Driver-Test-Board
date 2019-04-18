@@ -1,0 +1,90 @@
+Added Component: Designator=D7(DO-35)
+Added Component: Designator=D8(DO-35)
+Added Component: Designator=D9(DO-204AL)
+Added Component: Designator=D10(DO-204AL)
+Added Component: Designator=D11(DO-35)
+Added Component: Designator=D12(DO-35)
+Added Component: Designator=P7(HDR1X3)
+Added Component: Designator=P8(HDR1X2)
+Added Component: Designator=P9(HDR1X3)
+Added Component: Designator=P10(HDR1X2)
+Added Component: Designator=P11(HDR1X4)
+Added Component: Designator=P12(HDR1X4)
+Added Component: Designator=Q13(E3)
+Added Component: Designator=Q14(E3)
+Added Component: Designator=Q15(E3)
+Added Component: Designator=Q16(E3)
+Added Component: Designator=R16(6-0805_M)
+Added Component: Designator=R18(6-0805_M)
+Added Component: Designator=R22(6-0805_M)
+Added Component: Designator=R23(6-0805_M)
+Added Pin To Net: NetName=NetD7_1 Pin=D7-1
+Added Pin To Net: NetName=NetD7_2 Pin=D7-2
+Added Pin To Net: NetName=NetD8_1 Pin=D8-1
+Added Pin To Net: NetName=NetD8_2 Pin=D8-2
+Added Pin To Net: NetName=12V Pin=D9-1
+Added Pin To Net: NetName=NetC13_2 Pin=D9-2
+Added Pin To Net: NetName=12V Pin=D10-1
+Added Pin To Net: NetName=NetC14_2 Pin=D10-2
+Added Pin To Net: NetName=NetD11_1 Pin=D11-1
+Added Pin To Net: NetName=NetD11_2 Pin=D11-2
+Added Pin To Net: NetName=NetD12_1 Pin=D12-1
+Added Pin To Net: NetName=NetD12_2 Pin=D12-2
+Added Pin To Net: NetName=GND Pin=P7-1
+Added Pin To Net: NetName=LIN_LEFT Pin=P7-2
+Added Pin To Net: NetName=HIN_LEFT Pin=P7-3
+Added Pin To Net: NetName=LEFT_OUT Pin=P8-1
+Added Pin To Net: NetName=RIGHT_OUT Pin=P8-2
+Added Pin To Net: NetName=GND Pin=P9-1
+Added Pin To Net: NetName=LIN_RIGHT Pin=P9-2
+Added Pin To Net: NetName=HIN_RIGHT Pin=P9-3
+Added Pin To Net: NetName=HV Pin=P10-1
+Added Pin To Net: NetName=GND Pin=P10-2
+Added Pin To Net: NetName=12V Pin=P11-1
+Added Pin To Net: NetName=12V Pin=P11-2
+Added Pin To Net: NetName=12V Pin=P11-3
+Added Pin To Net: NetName=12V Pin=P11-4
+Added Pin To Net: NetName=GND Pin=P12-1
+Added Pin To Net: NetName=GND Pin=P12-2
+Added Pin To Net: NetName=GND Pin=P12-3
+Added Pin To Net: NetName=GND Pin=P12-4
+Added Pin To Net: NetName=HV Pin=Q13-1
+Added Pin To Net: NetName=NetD7_1 Pin=Q13-2
+Added Pin To Net: NetName=LEFT_OUT Pin=Q13-3
+Added Pin To Net: NetName=HV Pin=Q14-1
+Added Pin To Net: NetName=NetD8_1 Pin=Q14-2
+Added Pin To Net: NetName=RIGHT_OUT Pin=Q14-3
+Added Pin To Net: NetName=LEFT_OUT Pin=Q15-1
+Added Pin To Net: NetName=NetD11_1 Pin=Q15-2
+Added Pin To Net: NetName=GND Pin=Q15-3
+Added Pin To Net: NetName=RIGHT_OUT Pin=Q16-1
+Added Pin To Net: NetName=NetD12_1 Pin=Q16-2
+Added Pin To Net: NetName=GND Pin=Q16-3
+Added Pin To Net: NetName=LEFT_OUT Pin=R16-1
+Added Pin To Net: NetName=NetD7_1 Pin=R16-2
+Added Pin To Net: NetName=RIGHT_OUT Pin=R18-1
+Added Pin To Net: NetName=NetD8_1 Pin=R18-2
+Added Pin To Net: NetName=GND Pin=R22-1
+Added Pin To Net: NetName=NetD11_1 Pin=R22-2
+Added Pin To Net: NetName=GND Pin=R23-1
+Added Pin To Net: NetName=NetD12_1 Pin=R23-2
+Added Member To Class: ClassName=Driver Board Simplified Member=Component D7 Diode 1N4148
+Added Member To Class: ClassName=Driver Board Simplified Member=Component D8 Diode 1N4148
+Added Member To Class: ClassName=Driver Board Simplified Member=Component D9 FR104
+Added Member To Class: ClassName=Driver Board Simplified Member=Component D10 FR104
+Added Member To Class: ClassName=Driver Board Simplified Member=Component D11 Diode 1N4148
+Added Member To Class: ClassName=Driver Board Simplified Member=Component D12 Diode 1N4148
+Added Member To Class: ClassName=Driver Board Simplified Member=Component P7 Header 3
+Added Member To Class: ClassName=Driver Board Simplified Member=Component P8 Header 2
+Added Member To Class: ClassName=Driver Board Simplified Member=Component P9 Header 3
+Added Member To Class: ClassName=Driver Board Simplified Member=Component P10 Header 2
+Added Member To Class: ClassName=Driver Board Simplified Member=Component P11 Header 4
+Added Member To Class: ClassName=Driver Board Simplified Member=Component P12 Header 4
+Added Member To Class: ClassName=Driver Board Simplified Member=Component Q13 MOSFET-N
+Added Member To Class: ClassName=Driver Board Simplified Member=Component Q14 MOSFET-N
+Added Member To Class: ClassName=Driver Board Simplified Member=Component Q15 MOSFET-N
+Added Member To Class: ClassName=Driver Board Simplified Member=Component Q16 MOSFET-N
+Added Member To Class: ClassName=Driver Board Simplified Member=Component R16 10k
+Added Member To Class: ClassName=Driver Board Simplified Member=Component R18 10k
+Added Member To Class: ClassName=Driver Board Simplified Member=Component R22 10k
+Added Member To Class: ClassName=Driver Board Simplified Member=Component R23 10k

@@ -1,0 +1,9 @@
+Added Component: Designator=J1(Jumper_700)
+Added Component: Designator=J2(Jumper_700)
+Added Component: Designator=J3(Jumper_700)
+Added Component: Designator=J4(Jumper_700)
+Added Member To Class: ClassName=Driver Board Simplified Member=Component J1 Jumper
+Added Member To Class: ClassName=Driver Board Simplified Member=Component J2 Jumper
+Added Member To Class: ClassName=Driver Board Simplified Member=Component J3 Jumper
+Added Member To Class: ClassName=Driver Board Simplified Member=Component J4 Jumper
+Added Room: Name=Driver Board Simplified

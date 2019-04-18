@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=P8 Old Footprint=HDR1X2 New Footprint=2P_PCB_TERM_BLOCK_HDR
+Change Component Footprint: Designator=P10 Old Footprint=HDR1X2 New Footprint=2P_PCB_TERM_BLOCK_HDR
+Added Room: Name=Driver Board Simplified

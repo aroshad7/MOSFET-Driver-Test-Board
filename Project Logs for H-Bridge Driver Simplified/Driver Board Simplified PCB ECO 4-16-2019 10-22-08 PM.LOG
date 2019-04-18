@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=LEFT_OUT Pin=R16-1
+Removed Pin From Net: NetName=NetD7_1 Pin=R16-2
+Removed Pin From Net: NetName=RIGHT_OUT Pin=R18-1
+Removed Pin From Net: NetName=NetD8_1 Pin=R18-2
+Removed Pin From Net: NetName=GND Pin=R22-1
+Removed Pin From Net: NetName=NetD11_1 Pin=R22-2
+Removed Pin From Net: NetName=GND Pin=R23-1
+Removed Pin From Net: NetName=NetD12_1 Pin=R23-2
+Removed Member From Class: ClassName=Driver Board Simplified Member=R16
+Removed Member From Class: ClassName=Driver Board Simplified Member=R18
+Removed Member From Class: ClassName=Driver Board Simplified Member=R22
+Removed Member From Class: ClassName=Driver Board Simplified Member=R23

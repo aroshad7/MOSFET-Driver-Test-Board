@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=J4 Old Footprint=Jumper_700 New Footprint=Jumper_500
+Change Component Footprint: Designator=J1 Old Footprint=Jumper_700 New Footprint=Jumper_600
+Added Member To Class: ClassName=Gate Member=Wire LEFT_LOW_OUT

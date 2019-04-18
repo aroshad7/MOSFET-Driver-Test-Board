@@ -1,0 +1,5 @@
+Removed Member From Class: ClassName=Gate Member=NetD11_2
+Change Net Name : Old Net Name=NetD11_2 New Net Name=LEFT_LOW_OUT
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 110, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Yellow
+Added Member To Class: ClassName=Gate Member=Wire LEFT_LOW_OUT

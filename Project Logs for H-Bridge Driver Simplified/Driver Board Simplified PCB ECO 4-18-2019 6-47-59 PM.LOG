@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=LEFT_OUT Pin=P10-1
+Removed Pin From Net: NetName=RIGHT_OUT Pin=P10-2
+Removed Member From Class: ClassName=Driver Board Simplified Member=P10

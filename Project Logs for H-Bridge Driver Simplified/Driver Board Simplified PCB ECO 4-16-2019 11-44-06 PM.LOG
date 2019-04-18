@@ -1,0 +1,23 @@
+Removed Member From Class: ClassName=Gate Member=NetD7_2
+Removed Member From Class: ClassName=Gate Member=NetD8_2
+Removed Member From Class: ClassName=Gate Member=NetD11_2
+Removed Member From Class: ClassName=Gate Member=NetD12_2
+Added Component: Designator=J1(Jumper_1500)
+Added Component: Designator=J2(Jumper_1500)
+Added Component: Designator=J3(Jumper_1500)
+Added Component: Designator=J4(Jumper_1500)
+Change Net Name : Old Net Name=NetD7_2 New Net Name=LEFT_HIGH_OUT
+Change Net Name : Old Net Name=NetD8_2 New Net Name=RIGHT_HIGH_OUT
+Change Net Name : Old Net Name=NetD11_2 New Net Name=LEFT_LOW_OUT
+Change Net Name : Old Net Name=NetD12_2 New Net Name=RIGH_LOW_OUT
+Added Pin To Net: NetName=RIGH_HIGH_OUT Pin=J2-1
+Added Pin To Net: NetName=RIGH_HIGH_OUT Pin=J2-2
+Added Net: Name=RIGH_HIGH_OUT
+Added Member To Class: ClassName=Driver Board Simplified Member=Component J1 Jumper
+Added Member To Class: ClassName=Driver Board Simplified Member=Component J2 Jumper
+Added Member To Class: ClassName=Driver Board Simplified Member=Component J3 Jumper
+Added Member To Class: ClassName=Driver Board Simplified Member=Component J4 Jumper
+Added Member To Class: ClassName=Gate Member=Wire LEFT_HIGH_OUT
+Added Member To Class: ClassName=Gate Member=Wire LEFT_LOW_OUT
+Added Member To Class: ClassName=Gate Member=Wire RIGH_LOW_OUT
+Added Member To Class: ClassName=Gate Member=Wire RIGHT_HIGH_OUT

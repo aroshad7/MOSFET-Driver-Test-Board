@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=P10 NewDesignator=P13
+Added Component: Designator=P10(2P_PCB_TERM_BLOCK_HDR)
+Added Pin To Net: NetName=LEFT_OUT Pin=P10-1
+Added Pin To Net: NetName=RIGHT_OUT Pin=P10-2
+Added Member To Class: ClassName=Driver Board Simplified Member=Component P13 Header 2

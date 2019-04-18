@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=HV Pin=Q13-1
+Removed Pin From Net: NetName=NetD7_1 Pin=Q13-2
+Removed Pin From Net: NetName=HV Pin=Q14-1
+Removed Pin From Net: NetName=NetD8_1 Pin=Q14-2
+Removed Pin From Net: NetName=LEFT_OUT Pin=Q15-1
+Removed Pin From Net: NetName=NetD11_1 Pin=Q15-2
+Removed Pin From Net: NetName=RIGHT_OUT Pin=Q16-1
+Removed Pin From Net: NetName=NetD12_1 Pin=Q16-2
+Added Pin To Net: NetName=NetD7_1 Pin=Q13-1
+Added Pin To Net: NetName=HV Pin=Q13-2
+Added Pin To Net: NetName=NetD8_1 Pin=Q14-1
+Added Pin To Net: NetName=HV Pin=Q14-2
+Added Pin To Net: NetName=NetD11_1 Pin=Q15-1
+Added Pin To Net: NetName=LEFT_OUT Pin=Q15-2
+Added Pin To Net: NetName=NetD12_1 Pin=Q16-1
+Added Pin To Net: NetName=RIGHT_OUT Pin=Q16-2

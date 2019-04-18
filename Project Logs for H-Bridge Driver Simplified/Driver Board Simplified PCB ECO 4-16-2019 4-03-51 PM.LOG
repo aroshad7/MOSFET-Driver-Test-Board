@@ -1,0 +1,75 @@
+Added Component: Designator=C9(100mil CAP - 80mil pad)
+Added Component: Designator=C10(100mil CAP - 80mil pad)
+Added Component: Designator=C11(Ceramic Cap - 80mil pad)
+Added Component: Designator=C12(Ceramic Cap - 80mil pad)
+Added Component: Designator=C13(Ceramic Cap - 80mil pad)
+Added Component: Designator=C14(Ceramic Cap - 80mil pad)
+Added Component: Designator=C15(Ceramic Cap - 80mil pad)
+Added Component: Designator=C16(Ceramic Cap - 80mil pad)
+Added Component: Designator=R13(Resistor 300MIL - 80mil pad)
+Added Component: Designator=R14(Resistor 300MIL - 80mil pad)
+Added Component: Designator=R15(Resistor 300MIL - 80mil pad)
+Added Component: Designator=R17(Resistor 300MIL - 80mil pad)
+Added Component: Designator=R19(Resistor 300MIL - 80mil pad)
+Added Component: Designator=R20(Resistor 300MIL - 80mil pad)
+Added Component: Designator=R21(Resistor 300MIL - 80mil pad)
+Added Component: Designator=R24(Resistor 300MIL - 80mil pad)
+Added Pin To Net: NetName=12V Pin=C9-1
+Added Pin To Net: NetName=12V Pin=C10-1
+Added Net: Name=12V
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=GND Pin=R21-2
+Added Pin To Net: NetName=GND Pin=R24-2
+Added Net: Name=GND
+Added Net: Name=HIN_LEFT
+Added Net: Name=HIN_RIGHT
+Added Pin To Net: NetName=HV Pin=C11-1
+Added Pin To Net: NetName=HV Pin=C12-1
+Added Net: Name=HV
+Added Pin To Net: NetName=LEFT_OUT Pin=C13-1
+Added Pin To Net: NetName=LEFT_OUT Pin=C15-1
+Added Pin To Net: NetName=LEFT_OUT Pin=R15-2
+Added Net: Name=LEFT_OUT
+Added Net: Name=LIN_LEFT
+Added Net: Name=LIN_RIGHT
+Added Pin To Net: NetName=NetC11_2 Pin=C11-2
+Added Pin To Net: NetName=NetC11_2 Pin=R15-1
+Added Net: Name=NetC11_2
+Added Pin To Net: NetName=NetC12_2 Pin=C12-2
+Added Pin To Net: NetName=NetC12_2 Pin=R17-1
+Added Net: Name=NetC12_2
+Added Pin To Net: NetName=NetC13_2 Pin=C13-2
+Added Net: Name=NetC13_2
+Added Pin To Net: NetName=NetC14_2 Pin=C14-2
+Added Net: Name=NetC14_2
+Added Pin To Net: NetName=NetC15_2 Pin=C15-2
+Added Pin To Net: NetName=NetC15_2 Pin=R21-1
+Added Net: Name=NetC15_2
+Added Pin To Net: NetName=NetC16_2 Pin=C16-2
+Added Pin To Net: NetName=NetC16_2 Pin=R24-1
+Added Net: Name=NetC16_2
+Added Pin To Net: NetName=NetD7_1 Pin=R13-2
+Added Net: Name=NetD7_1
+Added Pin To Net: NetName=NetD7_2 Pin=R13-1
+Added Net: Name=NetD7_2
+Added Pin To Net: NetName=NetD8_1 Pin=R14-2
+Added Net: Name=NetD8_1
+Added Pin To Net: NetName=NetD8_2 Pin=R14-1
+Added Net: Name=NetD8_2
+Added Pin To Net: NetName=NetD11_1 Pin=R19-2
+Added Net: Name=NetD11_1
+Added Pin To Net: NetName=NetD11_2 Pin=R19-1
+Added Net: Name=NetD11_2
+Added Pin To Net: NetName=NetD12_1 Pin=R20-2
+Added Net: Name=NetD12_1
+Added Pin To Net: NetName=NetD12_2 Pin=R20-1
+Added Net: Name=NetD12_2
+Added Pin To Net: NetName=RIGHT_OUT Pin=C14-1
+Added Pin To Net: NetName=RIGHT_OUT Pin=C16-1
+Added Pin To Net: NetName=RIGHT_OUT Pin=R17-2
+Added Net: Name=RIGHT_OUT
+Added Class: Name=Driver Board Simplified
+Added Class: Name=High Current
+Added Class: Name=Power
+Added Room: Name=Driver Board Simplified

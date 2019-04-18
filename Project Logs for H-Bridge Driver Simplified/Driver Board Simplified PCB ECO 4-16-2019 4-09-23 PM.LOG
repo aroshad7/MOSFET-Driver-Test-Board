@@ -1,0 +1,19 @@
+Added Component: Designator=U3(SO8_N)
+Added Component: Designator=U4(SO8_N)
+Added Pin To Net: NetName=12V Pin=U3-1
+Added Pin To Net: NetName=HIN_LEFT Pin=U3-2
+Added Pin To Net: NetName=LIN_LEFT Pin=U3-3
+Added Pin To Net: NetName=GND Pin=U3-4
+Added Pin To Net: NetName=NetD11_2 Pin=U3-5
+Added Pin To Net: NetName=NetD7_2 Pin=U3-7
+Added Pin To Net: NetName=NetC13_2 Pin=U3-8
+Added Pin To Net: NetName=12V Pin=U4-1
+Added Pin To Net: NetName=HIN_RIGHT Pin=U4-2
+Added Pin To Net: NetName=LIN_RIGHT Pin=U4-3
+Added Pin To Net: NetName=GND Pin=U4-4
+Added Pin To Net: NetName=NetD12_2 Pin=U4-5
+Added Pin To Net: NetName=RIGHT_OUT Pin=U4-6
+Added Pin To Net: NetName=NetD8_2 Pin=U4-7
+Added Pin To Net: NetName=NetC14_2 Pin=U4-8
+Added Member To Class: ClassName=Driver Board Simplified Member=Component U3 IR2106
+Added Member To Class: ClassName=Driver Board Simplified Member=Component U4 IR2106
